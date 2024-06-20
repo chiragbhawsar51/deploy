@@ -40,4 +40,4 @@ soupsieve
 SQLAlchemy
 urllib3
 Werkzeug
-WTForms==3.1.2
+WTForms
